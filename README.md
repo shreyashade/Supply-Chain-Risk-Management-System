@@ -45,6 +45,11 @@ The result? A comprehensive, interactive solution that empowers decision-makers 
   - **Impact:** Enables companies to act before minor disruptions escalate into major crises.
 
 ---
+## How to use:
+To run the models on your own datasets: substitute the simulated nodes with real-world data.
+Nail file: main.py
+Dashboard: integration.py
+
 
 ## Project Architecture
 
