@@ -50,6 +50,14 @@ To run the models on your own datasets: substitute the simulated nodes with real
 Nail file: main.py
 Dashboard: integration.py
 
+Extract the zip file to your preferred location
+Navigate to the project directory
+Run python main.py to access all features
+Explore the documentation in the documentation folder
+
+
+## Libraries:
+pip install dash dash-bootstrap-components plotly pandas networkx matplotlib numpy scipy scikit-learn joblib seaborn geopy
 
 ## Project Architecture
 
